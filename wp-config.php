@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'if0_35574356_wp798' );
 
 /** Database username */
-define( 'DB_USER', '35574356_2' );
+define( 'DB_USER', 'if0_35574356' );
 
 /** Database password */
-define( 'DB_PASSWORD', '.N1S753B(p' );
+define( 'DB_PASSWORD', 'LSD2o8pJ8Sy2rr' );
 
 /** Database hostname */
-define( 'DB_HOST', 'sql208.byetcluster.com' );
+define( 'DB_HOST', 'sql208.infinityfree.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
